@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="./img//banner-github.png">AristiDevs</a> 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAGdWO5jkxQ/BfMWZCmdMjzjGNloNXMKIQ/view?utm_content=DAGdWO5jkxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h247aedb212">
+<img src="https://backend-ecommerce-production-4fe0.up.railway.app/public/img/banner-github.png">
 
 ## Sobre mi
 
