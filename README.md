@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://vegan-felino.vercel.app" target="_blank">
-Visitar
+<img src="https://img.shields.io/badge/-Visitar-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
 <p> Proyecto desarrollado con tecnologías modernas que garantizan una experiencia de usuario rápida, dinámica y visualmente atractiva. El objetivo del proyecto es ofrecer una <strong> interfaz intuitiva y funcional </strong> para los usuarios, aprovechando las mejores herramientas del ecosistema de desarrollo web actual.</p>
@@ -33,19 +33,19 @@ Visitar
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Backend E-commerce</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://backend-ecommerce-production-4fe0.up.railway.app/api-docs" target="_blank"><img src="./img/back_img.PNG" width="400" alt="Backend ecommerce"></a>
 <br>
 <p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<a href="https://github.com/Msaezcardenas/backend-ecommerce" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+<a href="https://backend-ecommerce-production-4fe0.up.railway.app/api-docs" target="_blank">
+<img src="https://img.shields.io/badge/-Visitar-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Esta API es parte de un sistema de e-commerce diseñado para gestionar productos, usuarios, pedidos y más. Permite realizar operaciones CRUD, manejar la autenticación de usuarios mediante JWT, gestionar archivos (como imágenes de productos) y ofrecer una experiencia segura y escalable para los usuarios finales.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
