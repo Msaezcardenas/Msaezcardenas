@@ -1,4 +1,5 @@
 +<div align="center">
+
 <h1 align="center">Hola, soy MoluDev👋</h1>
 </div>
 <img src="./img/banner-github.png">
@@ -62,7 +63,7 @@
 <td width="50%">
 <h3 align="center">MoodVie</h3>
 <div align="center">
-<a href="https://msaezcardenas.github.io/Hack-pelicula" target="_blank"><img src="./img/moodvie.PNG" width="400" alt="moodvie"></a>
+<a href="https://msaezcardenas.github.io/Hack-pelicula" target="_blank"><img src="./img/moodvie_hack.PNG" width="400" alt="moodvie"></a>
 <p>
 <a href="https://github.com/Msaezcardenas/Hack-pelicula" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
