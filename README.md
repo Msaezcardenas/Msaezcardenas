@@ -1,26 +1,23 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="./img//banner-github.png">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy Mónica Sáez👋</h1>
 </div>
 <img src="./img/banner-github.png">
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+- 🌟 **¿Quién soy?** Soy una desarrolladora Full-Stack con experiencia en aplicaciones web, Frot-end, APIs, Backend, ecommerce,
+- 🌱 **Aprendiendo actualmente:** Actualmente estoy aprendiendo Next.js y herramientas de AWS
+- ✨ **Me encanta:** Colaborar en proyectos de código abierto y aprender nuevas tecnologías.
   <br>
 
-## Proyectos _bombitas_
+## Proyectos
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Vegan Felino</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://vegan-felino.vercel.app" target="_blank"><img src="./img//vegan_felino.PNG" width="400" alt="vegan felino"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -29,7 +26,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p> Proyecto desarrollado con tecnologías modernas que garantizan una experiencia de usuario rápida, dinámica y visualmente atractiva. El objetivo del proyecto es ofrecer una <strong> interfaz intuitiva y funcional </strong> para los usuarios, aprovechando las mejores herramientas del ecosistema de desarrollo web actual.</p>
 </div>
                                                                                       
 </td>
