@@ -1,19 +1,20 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://aristi.dev">AristiDevs</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="./img//banner-github.png">AristiDevs</a> 👋</h1>
 </div>
 <img src="https://www.canva.com/design/DAGdWO5jkxQ/BfMWZCmdMjzjGNloNXMKIQ/view?utm_content=DAGdWO5jkxQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h247aedb212">
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Star ⭐
 - 📲 Mobile developer
 - 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+62k subs)
 - ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
 - 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
-<br>
+  <br>
 
-## Proyectos *bombitas*
+## Proyectos _bombitas_
+
 <table>
 <tr>
 <td width="50%">
@@ -70,7 +71,7 @@
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
-</td>       
+</td>
 
 <td width="50%">
 <h3 align="center">Curso Kotlin Multiplatform</h3>
