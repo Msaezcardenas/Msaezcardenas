@@ -19,11 +19,11 @@
 <div align="center">
 <a href="https://vegan-felino.vercel.app" target="_blank"><img src="./img//vegan_felino.PNG" width="400" alt="vegan felino"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://github.com/Msaezcardenas/vegan_felino" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://vegan-felino.vercel.app" target="_blank">
+Visitar
 </a>
 </p>
 <p> Proyecto desarrollado con tecnologías modernas que garantizan una experiencia de usuario rápida, dinámica y visualmente atractiva. El objetivo del proyecto es ofrecer una <strong> interfaz intuitiva y funcional </strong> para los usuarios, aprovechando las mejores herramientas del ecosistema de desarrollo web actual.</p>
