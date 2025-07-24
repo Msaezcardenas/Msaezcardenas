@@ -23,9 +23,36 @@
 <table>
 <tr>
 <td width="50%">
+<h3 align="center">Talium - Sistema de Entrevistas</h3>
+<div align="center">
+<a href="https://github.com/Msaezcardenas/talium" target="_blank"><img src="./img/banner.png" width="400" alt="Talium"></a>
+<p>
+<a href="https://github.com/Msaezcardenas/talium" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-8e44ad?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<!-- Si tienes un demo online, descomenta y actualiza el siguiente enlace -->
+<!-- <a href="https://talium-demo-url.com" target="_blank">
+<img src="https://img.shields.io/badge/-Visitar-green?style=for-the-badge&color=9b59b6">
+</a> -->
+</p>
+<p><strong>Talium</strong> es una plataforma inteligente para la gestión de procesos de selección y entrevistas técnicas. Permite crear, asignar y monitorear entrevistas de manera eficiente, facilitando la administración de candidatos y el seguimiento de resultados en tiempo real. Su interfaz moderna y amigable está diseñada para optimizar el flujo de trabajo de reclutadores y equipos de RRHH, integrando analíticas y notificaciones automáticas para una experiencia completa y profesional.</p>
+<ul align="left">
+  <li>Gestión centralizada de entrevistas y candidatos</li>
+  <li>Asignación masiva y recordatorios automáticos</li>
+  <li>Panel de control con métricas clave y analíticas</li>
+  <li>Interfaz intuitiva y responsive</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">Vegan Felino</h3>
 <div align="center">
-<a href="https://vegan-felino.vercel.app" target="_blank"><img src="./img//vegan_felino.PNG" width="400" alt="vegan felino"></a>
+<a href="https://vegan-felino.vercel.app" target="_blank"><img src="./img/vegan_felino.PNG" width="400" alt="vegan felino"></a>
 <p>
 <a href="https://github.com/Msaezcardenas/vegan_felino" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -97,30 +124,3 @@
 </table>                                                                                 
 </div>
 <br>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Talium - Sistema de Entrevistas</h3>
-<div align="center">
-<a href="https://github.com/Msaezcardenas/talium" target="_blank"><img src="./img/banner.png" width="400" alt="Talium"></a>
-<p>
-<a href="https://github.com/Msaezcardenas/talium" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-8e44ad?style=for-the-badge&logo=github&logoColor=white">
-</a>
-<!-- Si tienes un demo online, descomenta y actualiza el siguiente enlace -->
-<!-- <a href="https://talium-demo-url.com" target="_blank">
-<img src="https://img.shields.io/badge/-Visitar-green?style=for-the-badge&color=9b59b6">
-</a> -->
-</p>
-<p><strong>Talium</strong> es una plataforma inteligente para la gestión de procesos de selección y entrevistas técnicas. Permite crear, asignar y monitorear entrevistas de manera eficiente, facilitando la administración de candidatos y el seguimiento de resultados en tiempo real. Su interfaz moderna y amigable está diseñada para optimizar el flujo de trabajo de reclutadores y equipos de RRHH, integrando analíticas y notificaciones automáticas para una experiencia completa y profesional.</p>
-<ul align="left">
-  <li>Gestión centralizada de entrevistas y candidatos</li>
-  <li>Asignación masiva y recordatorios automáticos</li>
-  <li>Panel de control con métricas clave y analíticas</li>
-  <li>Interfaz intuitiva y responsive</li>
-</ul>
-</div>
-</td>
-</tr>
-</table>
