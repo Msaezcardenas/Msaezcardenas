@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy MoluDev👋</h1>
 </div>
-<img src="./img/banner.png">
+<img src="./img/banner_molu.png">
 
 ## Sobre mi
 
@@ -25,7 +25,7 @@
 <td width="50%">
 <h3 align="center">Talium - Sistema de Entrevistas</h3>
 <div align="center">
-<a href="https://github.com/Msaezcardenas/talium" target="_blank"><img src="./img/banner.png" width="400" alt="Talium"></a>
+<a href="https://github.com/Msaezcardenas/talium" target="_blank"><img src="./img/talium.png" width="400" alt="Talium"></a>
 <p>
 <a href="https://github.com/Msaezcardenas/talium" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-8e44ad?style=for-the-badge&logo=github&logoColor=white">
